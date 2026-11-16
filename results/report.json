@@ -1,0 +1,128 @@
+{
+  "documents": 101,
+  "runs_by_machine": [
+    {
+      "host": "169.254.68.69",
+      "books": 1
+    },
+    {
+      "host": "Siris-MacBook-Pro.local",
+      "books": 3
+    },
+    {
+      "host": "b0e712cb69bc",
+      "books": 1
+    },
+    {
+      "host": "e702b9be7a9b",
+      "books": 3
+    },
+    {
+      "host": "f1c074a3d5e2",
+      "books": 101
+    },
+    {
+      "host": "ip-172-31-23-17",
+      "books": 100
+    },
+    {
+      "host": "udc-aw37-1",
+      "books": 101
+    }
+  ],
+  "last_processed": [
+    {
+      "_id": "pg996.txt",
+      "author": "Miguel de Cervantes Saavedra",
+      "bucket": "public-kcm3dm",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-23-17",
+          "at": "2026-11-01 16:04:16.914000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-08 00:02:19.500000",
+          "job": "22647288_101"
+        },
+        {
+          "host": "f1c074a3d5e2",
+          "at": "2026-11-16 19:06:55.309000"
+        }
+      ],
+      "title": "Don Quixote",
+      "unique_words": 15574,
+      "vocabulary_ratio": 0.0359,
+      "word_count": 433304,
+      "llm_analysis": {
+        "summary": "**Summary:**\n- **Setting:** Set in Spain, particularly around the 16th century.\n- **Main Characters:** Don Quixote, a mad knight, and Sancho Panza, his loyal squire.\n- **Plot Summary:** Don Quixote, inspired by medieval chivalry stories, decides to ride off as a knight and falls in love with Dulcinea, a woman he believes to be a princess. However, he encounters numerous comedic and tragic misadventures, including battles with windmills, enchanted objects, and misunderstandings.\n\n**",
+        "genre": "unknown",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-08 00:02:19.500000"
+      }
+    },
+    {
+      "_id": "pg98.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-kcm3dm",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-23-17",
+          "at": "2026-11-01 16:04:16.558000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-08 00:02:18.187000",
+          "job": "22647288_100"
+        },
+        {
+          "host": "f1c074a3d5e2",
+          "at": "2026-11-16 19:06:54.884000"
+        }
+      ],
+      "title": "A Tale of Two Cities",
+      "unique_words": 9698,
+      "vocabulary_ratio": 0.07,
+      "word_count": 138490,
+      "llm_analysis": {
+        "summary": "**Summary:**  \nJerry Cruncher, a young messenger at Tellson's Bank, receives a mysterious package containing a letter from Mr. Jarvis Lorry, a lawyer. Intrigued, Jerry decides to investigate.\n\n**",
+        "genre": "unknown",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-08 00:02:18.187000"
+      }
+    },
+    {
+      "_id": "pg963.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-kcm3dm",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-23-17",
+          "at": "2026-11-01 16:04:16.300000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-08 00:02:18.918000",
+          "job": "22647288_99"
+        },
+        {
+          "host": "f1c074a3d5e2",
+          "at": "2026-11-16 19:06:54.548000"
+        }
+      ],
+      "title": "Little Dorrit",
+      "unique_words": 14784,
+      "vocabulary_ratio": 0.0428,
+      "word_count": 345231,
+      "llm_analysis": {
+        "summary": "**Summary:**  \nMr Arthur Clennam arrives in London from Marseilles, where he witnessed a tragic event involving a ship sinking. He meets his estranged mother, Mrs Clennam, who is confined to her room due to health issues. During their reunion, Mr Clennam learns about his father's death and the financial troubles of the family. Mrs Clennam reveals that her husband, Jeremiah Flintwinch, proposes marriage to her despite their shared past.\n\n**",
+        "genre": "unknown",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-08 00:02:18.918000"
+      }
+    }
+  ]
+}
